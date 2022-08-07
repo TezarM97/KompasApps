@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kompas</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="posttemplate">This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob clean architecture approach.</string>
+    <string name="profilecompany">Harian Kompas adalah surat kabar Indonesia yang berkantor pusat di Jakarta. Kompas diterbitkan oleh PT Kompas Media Nusantara yang merupakan bagian dari kelompok usaha Kompas Gramedia (KG), yang didirikan oleh P.K. Ojong (almarhum) dan Jakob Oetama (almarhum) sejak 28 Juni 1965.</string>
+</resources>
